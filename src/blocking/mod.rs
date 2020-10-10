@@ -9,3 +9,4 @@ pub mod i2c;
 pub mod rng;
 pub mod serial;
 pub mod spi;
+pub mod spi_bidi;

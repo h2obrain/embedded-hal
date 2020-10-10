@@ -696,6 +696,7 @@ pub mod fmt;
 pub mod prelude;
 pub mod serial;
 pub mod spi;
+pub mod spi_bidi;
 pub mod timer;
 pub mod watchdog;
 
