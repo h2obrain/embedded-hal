@@ -415,6 +415,7 @@ pub mod qei;
 pub mod rng;
 pub mod serial;
 pub mod spi;
+pub mod spi_bidi;
 pub mod timer;
 pub mod watchdog;
 
